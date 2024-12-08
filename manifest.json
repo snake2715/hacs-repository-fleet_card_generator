@@ -1,0 +1,11 @@
+{
+  "domain": "fleet_card_generator",
+  "name": "Fleet Card Generator",
+  "version": "1.0.0",
+  "documentation": "https://www.home-assistant.io/integrations/fleet_card_generator",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@your_username"],
+  "config_flow": false,
+  "iot_class": "local_push"
+} 
